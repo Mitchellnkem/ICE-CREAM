@@ -61,6 +61,7 @@ section{
     font-size: 2rem;
     cursor: pointer;
     padding: 1rem 3rem;
+    
 }
 
 .btn:hover{
@@ -429,7 +430,7 @@ section{
 /* footer */
 
 .footer{
-    background: url(../images/footer.png);
+    background: url(../img/footer.png);
     margin-top: 2rem;
     text-align: center;
 }

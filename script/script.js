@@ -12,7 +12,7 @@ window.onscroll = () => {
 }
 
 
-var swiper = new Swiper(".home-slider", {
+var swiper = new swiper(".home-slider", {
     grabCursor:true,
     loop:true,
     centeredSlides:true,
@@ -22,7 +22,7 @@ var swiper = new Swiper(".home-slider", {
     },
 });
 
-var swiper = new Swiper(".reviews-slider", {
+var swiper = new swiper(".reviews-slider", {
     pagination:{
         el:".swiper-pagination",
         clickable:true,
